@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>Aplicacao v5</title>
+  <title>Aplicacao v6</title>
  </head>
  <body>
- <?php echo "<p>Olá Aplicacao v5</p>"; ?>
+ <?php echo "<p>Olá Aplicacao v6</p>"; ?>
  </body>
 </html>
