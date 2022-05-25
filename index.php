@@ -3,6 +3,8 @@
   <title>Aplicacao 13</title>
  </head>
  <body>
- <?php echo "<p>Olá Aplicacao 13</p>"; ?>
+ <?php  
+echo 'User IP Address - '.$_SERVER['REMOTE_ADDR'];  
+ ?> 
  </body>
 </html>
