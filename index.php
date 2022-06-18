@@ -14,8 +14,8 @@ p.ex2 {
 echo 'User IP Address - '.$_SERVER['REMOTE_ADDR'];  
  ?> 
 <p>This is a normal paragraph.</p>
-<p class="ex1">This is a bigger paragraph.</p>
-<p class="ex2">This is a much bigger paragraph.</p>
+<p class="ex1">Openshift - Ambiente 200DEV.</p>
+<p class="ex2">Funcionou PORRA.</p>
 
 </body>
 </html>
