@@ -1,10 +1,21 @@
 <html>
- <head>
-  <title>Aplicacao 13</title>
- </head>
- <body>
+<head>
+<style>
+p.ex1 {
+  font-size: 30px;
+}
+p.ex2 {
+  font-size: 50px;
+}
+</style>
+</head>
+<body>
  <?php  
 echo 'User IP Address - '.$_SERVER['REMOTE_ADDR'];  
  ?> 
- </body>
+<p>This is a normal paragraph.</p>
+<p class="ex1">This is a bigger paragraph.</p>
+<p class="ex2">This is a much bigger paragraph.</p>
+
+</body>
 </html>
