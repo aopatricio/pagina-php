@@ -17,6 +17,7 @@ echo 'User IP Address of PODs - '.$_SERVER['REMOTE_ADDR'];
 <p class="ex2">Openshift 4.10</p>
 <p class="ex2">Funcionou Na VM da 200DEV.</p>
 <p class="ex2">Adicionando o Flux Na VM da 200DEV.</p>
+<p class="ex2">Versão 4.10.</p>
 
 </body>
 </html>
